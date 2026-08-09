@@ -22,7 +22,7 @@
     "WorldRoot": {
   "RaycastBoundDesc": "0x8091390",
   "RaycastBoundFn": "0x80"
-}
+},
     "BasePart": {
       "Primitive": "0x128"
     },
