@@ -1,1 +1,43 @@
-
+{
+  "schemaVersion": 1,
+  "clientVersion": "version-145f189a6a974303",
+  "offsets": {
+    "FakeDataModel": {
+      "Pointer": "0x7E26978",
+      "RealDataModel": "0x1D0"
+    },
+    "Instance": {
+      "ChildrenEnd": "0x8",
+      "ChildrenStart": "0x70",
+      "ClassDescriptor": "0x18",
+      "ClassName": "0x8",
+      "Name": "0x98",
+      "Parent": "0x68"
+    },
+    "DataModel": {
+      "Workspace": "0x160"
+    },
+    "Misc": {
+      "StringLength": "0x10"
+    },
+    "BasePart": {
+      "Primitive": "0x128"
+    },
+    "Primitive": {
+      "Position": "0xEC"
+    },
+    "Humanoid": {
+      "Health": "0x190",
+      "MaxHealth": "0x1A8"
+    },
+    "Player": {
+      "LocalPlayer": "0x130",
+      "ModelInstance": "0x298",
+      "Team": "0x2D8"
+    },
+    "VisualEngine": {
+      "Pointer": "0x8818F60",
+      "ViewMatrix": "0x180"
+    }
+  }
+}
