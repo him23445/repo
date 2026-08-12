@@ -2,7 +2,7 @@
   "clientVersion": "version-d584fb6c717a43d9",
   "offsets": {
     "FakeDataModel": { "Pointer": "0x8A5D748", "RealDataModel": "0x1D0" },
-    "Instance": { "ChildrenEnd": "0x8", "ChildrenEntryStride": "0x10", "ChildrenStart": "0x78", "ClassDescriptor": "0x18", "ClassName": "0x8", "Name": "0x8", "NameContainer": "0x70", "Parent": "0x68" },
+    "Instance": { "ChildrenCapacity": "0x10", "ChildrenEnd": "0x8", "ChildrenEntryStride": "0x10", "ChildrenStart": "0x78", "ClassDescriptor": "0x18", "ClassName": "0x8", "Name": "0x8", "NameContainer": "0x70", "Parent": "0x68", "SharedPtrControl": "0x10" },
     "DataModel": { "CreatorId": "0x180", "GameId": "0x188", "GameLoaded": "0x578", "JobId": "0x120", "PlaceId": "0x190", "PlaceVersion": "0x1AC", "PrimitiveCount": "0x3C0", "ServerIP": "0x560", "Workspace": "0x160" },
     "ScriptContext": { "LuaState": "0x28", "LuaStateAlt": "0xE8", "VmWrapper": "0x220", "VmWrapper2": "0x528", "VmWrapperBig": "0x440" },
     "LuaState": { "Base": "0x60", "Global": "0x70", "Top": "0x48" },
