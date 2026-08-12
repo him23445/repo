@@ -7,7 +7,7 @@
     "ScriptContext": { "LuaState": "0x28", "LuaStateAlt": "0xE8", "VmWrapper": "0x220", "VmWrapper2": "0x528", "VmWrapperBig": "0x440" },
     "LuaState": { "Base": "0x60", "Global": "0x70", "Top": "0x48" },
     "LuauGlobal": { "DummyNode": "0x610B760", "GcPages": "0x90", "GcPagesEnd": "0x78", "GcPagesLarge": "0xA0", "GcPagesSizeClass": "0xA8", "GcPause": "0x18", "GcState": "0x11", "GcStepMul": "0x14", "GcThreshold": "0x50", "Gray": "0x28", "GrayAgain": "0x30", "PageNextAll": "0x8", "PageNextFree": "0x18", "TotalBytes": "0x58", "Weak": "0x20" },
-    "Misc": { "StringCapacity": "0x18", "StringLength": "0x10" },
+    "Misc": { "StringLength": "0x10" },
     "ValueBase": { "Value": "0xB8" },
     "BasePart": { "CastShadow": "0xD5", "Color3": "0xF4", "Locked": "0xD6", "Massless": "0xD7", "Primitive": "0x128", "Reflectance": "0xCC", "Transparency": "0xD0" },
     "Primitive": { "Flags": "0x1B6", "Position": "0xEC", "Rotation": "0xC8", "AssemblyLinearVelocity": "0xF8", "AssemblyAngularVelocity": "0x104", "Size": "0x1BC" },
